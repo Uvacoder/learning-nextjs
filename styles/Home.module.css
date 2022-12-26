@@ -97,6 +97,17 @@
   font-size: 1.5rem;
 }
 
+.link {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.link:hover,
+.link:focus,
+.link:active {
+  text-decoration: underline;
+}
+
 .card p {
   margin: 0;
   font-size: 1.25rem;
